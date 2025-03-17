@@ -39,8 +39,6 @@
 <p align="left">
   <a href="https://github.com/thinkright20">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,firebase,graphql,nodejs,express,mongodb,java,spring,python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure">
   </a>
 </p>
 
