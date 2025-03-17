@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+ADITYA+here!%2F%3E)
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/vatsaltibrewal?style=flat&label=FOLLOWERS) 
+![GitHub followers](https://img.shields.io/github/followers/adityaS-123?style=flat&label=FOLLOWERS) 
 
 
 - 👨‍💻 I’m a **Cloud Computing Enthusiast**
