@@ -36,7 +36,7 @@
 
 
 ## **Languages and Tools**
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,firebase,graphql,nodejs,express,mongodb,java,spring,AWS,AZURE,python,Amazon web Services"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,firebase,graphql,nodejs,express,mongodb,java,spring,python,AWS-Dark"> </a> </p>
 
 
 
