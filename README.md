@@ -36,7 +36,7 @@
 
 
 ## **Languages and Tools**
-<p align="left"> <a href="https://portfolio-final-eight-rho.vercel.app/"><img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,nodejs,express,mongodb,java,spring,python,aws,azure"> </a> </p>
+<p align="left"> <a href="https://portfolio-final-eight-rho.vercel.app/"><img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,nodejs,express,mongodb,java,spring,python,aws,azure,gcp"> </a> </p>
 
 
 
