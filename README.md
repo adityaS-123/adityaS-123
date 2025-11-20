@@ -42,19 +42,6 @@ Works on projects with measurable outcomes, tight feedback cycles, and technical
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adityaS-123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaS-123&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaS-123&layout=compact&hide_border=true&langs_count=10" />
-</p>
-
----
-
 ## Problem-Solving Activity
 
 <p align="center">
