@@ -45,7 +45,7 @@ Works on projects with measurable outcomes, tight feedback cycles, and technical
 ## Problem-Solving Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/vatsaltibrewal?theme=dark&ext=heatmap&border=0" />
+  <img src="https://leetcard.jacoblin.cool/Adi1004?theme=dark&ext=heatmap&border=0" />
 </p>
 
 ---
