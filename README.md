@@ -31,7 +31,7 @@ Works on projects with measurable outcomes, tight feedback cycles, and technical
 ## Technical Scope
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,linux,html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgres,redis,java,spring,python,git,github,docker,kubernetes,nginx,aws,azure,gcp,jenkins,terraform,ArgoCD" />
+<img src="https://skillicons.dev/icons?i=vscode,linux,html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgres,redis,java,spring,python,git,github,docker,kubernetes,nginx,aws,azure,gcp,jenkins,terraform,gitlab" />
 </p>
 
 ---
